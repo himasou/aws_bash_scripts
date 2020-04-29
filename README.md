@@ -1,2 +1,2 @@
 # aws_bash_scripts
-Some bash scripts to help automate some simple was functions.
+Some bash scripts to help automate some simple AWS functions.
